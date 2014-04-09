@@ -29,7 +29,7 @@
     "date-floor": "0.0.4"
   },
   "dependencies": {
-    "timestamp-range": "~0.0.4",
+    "timestamp-range": "~0.0.6",
     "time-resolutions": "~0.1.1",
     "date-floor": "~0.0.4"
   }
