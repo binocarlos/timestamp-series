@@ -1,0 +1,36 @@
+{
+  "name": "timestamp-series",
+  "version": "0.1.0",
+  "description": "Get an array of timestamps between 2 points with a configurable resolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/timestamp-series.git"
+  },
+  "keywords": [
+    "date",
+    "timestamp",
+    "series",
+    "gap",
+    "resolution"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/timestamp-series/issues"
+  },
+  "homepage": "https://github.com/binocarlos/timestamp-series",
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "should": "~1.2.2",
+    "date-floor": "0.0.4"
+  },
+  "dependencies": {
+    "timestamp-range": "0.0.4",
+    "time-resolutions": "^0.1.1",
+    "date-floor": "0.0.4"
+  }
+}
