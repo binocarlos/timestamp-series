@@ -2,6 +2,7 @@ var timestamprange = require('timestamp-range');
 var timeresolutions = require('time-resolutions');
 var datefloor = require('date-floor');
 
+
 module.exports = function timestamp_series(resolution, start, end){
 	var range = timestamprange(start, end);
 	var range_resolution = range.resolution;
