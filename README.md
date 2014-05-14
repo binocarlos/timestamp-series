@@ -11,7 +11,6 @@ Get an array of timestamps between 2 points with a configurable resolution
 $ npm install timestamp-series
 ```
 
-
 ## usage
 
 Give a start and end date with optional resolution and get back an array of timestamps between the start and end date.
