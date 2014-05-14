@@ -52,7 +52,7 @@ console.dir(get_day_series());
 function get_year_series(){
 	var s = new Date('05/06/1994 12:00:00')
 	var e = new Date('05/12/2011 12:00:00')
-	return timestampseries('day', s, e);	
+	return timestampseries('year', s, e);	
 }
 
 console.dir(get_year_series());
