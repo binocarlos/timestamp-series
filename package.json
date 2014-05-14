@@ -1,6 +1,6 @@
 {
   "name": "timestamp-series",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Get an array of timestamps between 2 points with a configurable resolution",
   "main": "index.js",
   "scripts": {
