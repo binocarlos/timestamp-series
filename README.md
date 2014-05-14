@@ -1,7 +1,7 @@
 timestamp-series
 ================
 
-![Build status](https://api.travis-ci.org/binocarlos/timestamp-series.png)
+[![Travis](http://img.shields.io/travis/binocarlos/timestamp-series.svg?style=flat)](https://travis-ci.org/binocarlos/timestamp-series)
 
 Get an array of timestamps between 2 points with a configurable resolution
 
